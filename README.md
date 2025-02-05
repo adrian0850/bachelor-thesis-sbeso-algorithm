@@ -1,4 +1,4 @@
-# bachelor-thesis-sbeso-algorithm
+# SBESO Algorithm for Topologyoptimization
 This Repository contains the python code which was implemented as part of my bachelors thesis.
 The topic of which was: "Analyzing the usage of Reinforcement Learning Algorithms for Topologyoptimization"
 It is based on the Work of Xiaodong Huang and Yi-Min Xie in ther paper "A further review of ESO type methods for topology optimization" 
